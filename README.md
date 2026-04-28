@@ -1,6 +1,6 @@
 # Hi, I'm Samriddhi Chandra 👋
 
-## Data Science & Analytics Engineer | AI/ML Enthusiast | UI/UX & Product Design Learner
+## Data Science & Analytics Engineer | AI/ML Enthusiast | UI/UX & Product Design Learner | Full Stack Devlopment
 
 I am a B.Tech Artificial Intelligence & Data Science student based in Pune, India, with a strong interest in building data-driven, user-centered digital products.
 
