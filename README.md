@@ -13,7 +13,7 @@ My work combines **Data Science, Analytics Engineering, Machine Learning, AI, UI
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - Data Science & Analytics Engineer Intern at **Eric Robotics — Premier Seals Pvt Ltd**
 - Skilled in **Python, SQL, Power BI, ETL pipelines, dashboards, APIs, and real-time analytics**
@@ -24,7 +24,7 @@ My work combines **Data Science, Analytics Engineering, Machine Learning, AI, UI
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Data Science & Analytics
 `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Plotly`  
@@ -55,40 +55,8 @@ My work combines **Data Science, Analytics Engineering, Machine Learning, AI, UI
 `React.js` `JavaScript` `HTML` `CSS` `Node.js` `Express.js`  
 `JWT Authentication` `Role-Based Access` `Git` `GitHub` `Postman` `Agile/Scrum`
 
----
 
-## 💼 Experience
-
-### Data & Analytics Engineer Intern  
-**Eric Robotics — Premier Seals Pvt Ltd** | Pune, India  
-**Sep 2025 – Present**
-
-- Designed and deployed **6+ production-grade real-time analytics dashboards**
-- Built event-driven ETL pipelines integrating live hardware telemetry
-- Engineered real-time data pipelines using **Node.js, WebSockets, and MySQL**
-- Reduced dashboard rendering latency by **25%** through API batching, caching, and component optimization
-- Built a drag-and-drop dashboard configurator for non-technical operators
-- Integrated video streaming APIs with real-time sensor analytics dashboards
-
-### Software Trainee — Data & Analytics  
-**Zest India IT Services** | Pune, India  
-**Mar 2025 – Jun 2025**
-
-- Improved application data-fetch performance by **20%**
-- Built RESTful data-fetching layers with loading states, error handling, and edge-case management
-- Debugged data rendering issues and improved dashboard stability
-
-### Product Analytics Intern  
-**Artiset** | Pune, India  
-**Jan 2024 – Feb 2024**
-
-- Improved user navigation efficiency by **30%**
-- Used user behavior analysis to redesign information architecture
-- Translated data insights into product and UX decisions
-
----
-
-## 📌 Featured Projects
+## Featured Projects
 
 ### Real-Time Analytics & Control Dashboard
 `React.js` `Node.js` `WebSockets` `MySQL`
@@ -117,7 +85,7 @@ Created a social-media-inspired frontend project to practice UI layout, responsi
 
 ---
 
-## 🎯 What I’m Currently Focused On
+## What I’m Currently Focused On
 
 - Building real-time analytics dashboards
 - Improving my machine learning and AI project portfolio
@@ -127,7 +95,7 @@ Created a social-media-inspired frontend project to practice UI layout, responsi
 
 ---
 
-## 📊 GitHub Focus Areas
+##  GitHub Focus Areas
 
 ```text
 Data Science       ██████████
@@ -138,11 +106,11 @@ Product Design     ████████░░
 Frontend Dev       █████████░
 Backend Dev        ████████░░
 
-## 🏆 Certifications
+##  Certifications
 Machine Learning — Infosys Springboard
 Data Science — IBM
 Azure AI Fundamentals — Microsoft
-📫 Connect With Me
+ Connect With Me
 Portfolio: https://portfolio-updated-plum-phi.vercel.app/
 LinkedIn: https://linkedin.com/in/samriddhi-chandra
 GitHub: https://github.com/samriddhichandra
