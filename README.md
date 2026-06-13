@@ -18,7 +18,7 @@ Azure AI Fundamentals — Microsoft
 
 Connect With Me
 Portfolio: https://portfolio-updated-plum-phi.vercel.app/
-LinkedIn: https://linkedin.com/in/samriddhi-chandra
+LinkedIn: https://www.linkedin.com/in/samriddhi-chandra-b25a732bb/
 GitHub: https://github.com/samriddhichandra
 Email: samriddhic62@gmail.com
 
