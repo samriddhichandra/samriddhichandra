@@ -1,7 +1,7 @@
 Hi, I'm Samriddhi Chandra 👋
 Software Engineer | AI Full-Stack Developer 
 
-B.Tech AI & Data Science student (GPA: 9.75/10) building scalable software, AI-powered applications, and data-driven products.
+B.Tech AI & Data Science student (GPA: 9.75/10) building scalable software, AI-powered applications, and data-driven products
 
 💻 Focus Areas
 Full-Stack Development (React.js, Node.js, Next.js)
