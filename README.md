@@ -97,55 +97,50 @@ I enjoy building products combining:
 
 <div align="center">
 
-**Frontend Development**
-<br/>
-<img src="https://progress-bar.xyz/90/?title=React&width=250&color=babaca"/>
-<br/>
-<img src="https://progress-bar.xyz/85/?title=Next.js&width=250&color=8A2BE2"/>
-<br/>
-<img src="https://progress-bar.xyz/80/?title=TypeScript&width=250&color=6A5ACD"/>
-
-<br/>
-
-**Backend Development**
-<br/>
-<img src="https://progress-bar.xyz/88/?title=Node.js&width=250&color=4B0082"/>
-<br/>
-<img src="https://progress-bar.xyz/82/?title=NestJS&width=250&color=7C3AED"/>
-<br/>
-<img src="https://progress-bar.xyz/78/?title=REST+APIs&width=250&color=A78BFA"/>
-
-<br/>
-
-**Databases**
-<br/>
-<img src="https://progress-bar.xyz/80/?title=PostgreSQL&width=250&color=8A2BE2"/>
-<br/>
-<img src="https://progress-bar.xyz/75/?title=MongoDB&width=250&color=6A5ACD"/>
-<br/>
-<img src="https://progress-bar.xyz/70/?title=MySQL&width=250&color=4B0082"/>
-
-<br/>
-
-**Systems & Low-Level**
-<br/>
-<img src="https://progress-bar.xyz/75/?title=C%2B%2B&width=250&color=7C3AED"/>
-<br/>
-<img src="https://progress-bar.xyz/65/?title=Multithreading&width=250&color=A78BFA"/>
-
-<br/>
-
-**AI / ML**
-<br/>
-<img src="https://progress-bar.xyz/70/?title=LLM+Integration&width=250&color=8A2BE2"/>
-<br/>
-<img src="https://progress-bar.xyz/55/?title=RAG+Systems&width=250&color=6A5ACD"/>
-<br/>
-<img src="https://progress-bar.xyz/50/?title=Machine+Learning&width=250&color=4B0082"/>
+<table width="600px">
+  <tr>
+    <td width="30%"><b>Frontend</b></td>
+    <td width="70%">
+      React <progress value="90" max="100"></progress> 90%<br/>
+      Next.js <progress value="85" max="100"></progress> 85%<br/>
+      TypeScript <progress value="80" max="100"></progress> 80%
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      Node.js <progress value="88" max="100"></progress> 88%<br/>
+      NestJS <progress value="82" max="100"></progress> 82%<br/>
+      REST APIs <progress value="78" max="100"></progress> 78%
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      PostgreSQL <progress value="80" max="100"></progress> 80%<br/>
+      MongoDB <progress value="75" max="100"></progress> 75%<br/>
+      MySQL <progress value="70" max="100"></progress> 70%
+    </td>
+  </tr>
+  <tr>
+    <td><b>Systems & Low-Level</b></td>
+    <td>
+      C++ <progress value="75" max="100"></progress> 75%<br/>
+      Multithreading <progress value="65" max="100"></progress> 65%
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td>
+      LLM Integration <progress value="70" max="100"></progress> 70%<br/>
+      RAG Systems <progress value="55" max="100"></progress> 55%<br/>
+      Machine Learning <progress value="50" max="100"></progress> 50%
+    </td>
+  </tr>
+</table>
 
 </div>
 
----
 
 # 🧭 Skill Radar
 
